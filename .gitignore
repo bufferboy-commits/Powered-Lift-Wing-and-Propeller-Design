@@ -1,0 +1,8 @@
+# Editor directories
+.vscode/settings.json
+venv
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
