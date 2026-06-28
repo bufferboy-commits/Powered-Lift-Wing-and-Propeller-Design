@@ -1,9 +1,13 @@
+<div align="center">
+
 # Powered Lift Wing Design
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black)
 ![OpenVSP](https://img.shields.io/badge/OpenVSP-0A0A0A?style=flat&logoColor=white)
 ![XFoil](https://img.shields.io/badge/XFoil-4A90D9?style=flat&logoColor=white)
+
+</div>
 
 Aerodynamic and propulsion study for a STOL aircraft achieving extreme lift coefficients through Distributed Electric Propulsion (DEP) and blown flap augmentation. Validated through mathematical modeling, CFD, and wind tunnel testing.
 
